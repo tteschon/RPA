@@ -53,8 +53,8 @@ Schedule Details |
 ---
 App & Version | Client Type | Environment | Location
 --- | --- | --- | ---
-[App 1] | Thin | Dev | [VM Name]
-[App 1] | Thick | Prod | [VM Name]
+[App 1] | Thin | Dev | Link
+[App 1] | Thick | Prod | Link
 
 ### **Project Details**
 This section describes all the projects that compose the automated process. 
