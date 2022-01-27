@@ -51,10 +51,10 @@ Schedule Details |
 
 ### **Applications**
 ---
-App & Version | Client Type | Environment
---- | --- | ---
-[App Name 1] | Thin | Prod
-[App Name 2] | Thick | Prod
+App & Version | Client Type | Environment | Location
+--- | --- | --- | ---
+[App 1] | Thin | Dev | [VM Name]
+[App 1] | Thick | Prod | [VM Name]
 
 ### **Project Details**
 This section describes all the projects that compose the automated process. 
